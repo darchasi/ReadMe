@@ -1037,3 +1037,5 @@ D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-android\stamp\_Convert
 D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\logo.png
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\nbook.png
