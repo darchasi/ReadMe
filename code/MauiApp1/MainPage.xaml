@@ -33,21 +33,22 @@
             Style="{StaticResource Headline}"
             SemanticProperties.HeadingLevel="Level1" />
 
-            <Frame 
-            BackgroundColor="LightGrey"
-            HeightRequest="100"
-            WidthRequest="100"
+            <ImageButton
+            Clicked="BtnBook"
+            Grid.Row="1"
+            Grid.Column="0"
+            Source="logo.png"
+            WidthRequest="175"
+            HeightRequest="175"
+            Aspect="AspectFit"
+            Margin="0,20,0,0"
             CornerRadius="0"  
             HorizontalOptions="Center"
             VerticalOptions="Center">
-                <Label Text="Green"
-            VerticalOptions="Center"
-            HorizontalOptions="Center"
-            TextColor="Green"
-            />
-            </Frame>
+            </ImageButton>
 
-            <Image
+            <ImageButton
+            Clicked="BtnBook"
             Grid.Row="1"
             Grid.Column="0"
             Source="logo.png"
@@ -56,14 +57,10 @@
             Aspect="AspectFit"
             Margin="0,20,0,0"
             SemanticProperties.Description="dot net bot in a race car number eight" />
-            <Button
-                Grid.Row="2"
-                Grid.Column="0"
-                Text="Home" 
-                Clicked="BtnBook"
-                ></Button>
 
-            <Image
+
+            <ImageButton
+            Clicked="BtnBook"
             Grid.Row="1"
             Grid.Column="1"
             Source="logo.png"
@@ -73,7 +70,8 @@
             Margin="0,20,0,0"
             SemanticProperties.Description="dot net bot in a race car number eight" />
 
-            <Image
+            <ImageButton
+            Clicked="BtnBook"
             Grid.Row="3"
             Grid.Column="0"
             Source="logo.png"
@@ -83,7 +81,8 @@
             Margin="0,20,0,0"
             SemanticProperties.Description="dot net bot in a race car number eight" />
 
-            <Image
+            <ImageButton
+            Clicked="BtnBook"
             Grid.Row="3"
             Grid.Column="1"
             Source="logo.png"

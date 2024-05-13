@@ -6,4 +6,8 @@ public partial class BooksPage : ContentPage
 	{
 		InitializeComponent();
 	}
+    private async void BtnBook(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new InfoBooks());
+    }
 }

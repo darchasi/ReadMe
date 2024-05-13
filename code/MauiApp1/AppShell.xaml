@@ -7,13 +7,13 @@
     Shell.FlyoutBehavior="Disabled"
     Title="MauiApp1">
 
-    <Tab x:Name="Ouvrage" Icon="nbook.png">
+    <Tab x:Name="Menu" Icon="book3.svg">
         <ShellContent
-    Title="Home"
+    Title="Menu"
     ContentTemplate="{DataTemplate local:MainPage}" 
     Route="MainPage"/>
     </Tab>
-    <Tab Title="Favorits">
+    <Tab x:Name="FAV" Icon="star.svg">
         <ShellContent
     Title="Fav"
     ContentTemplate="{DataTemplate local:BooksPage}" 
