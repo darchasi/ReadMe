@@ -1,0 +1,12 @@
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.AssemblyReference.cache
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\PROJETS\P_Mobile\ReadMe\code\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
